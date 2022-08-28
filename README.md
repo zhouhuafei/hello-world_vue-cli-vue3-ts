@@ -1,6 +1,6 @@
 > 本项目是使用vue-cli的4.5.15版本创建的 - 除了PWA和E2E其他都选择了
 
-# hello-world_vue3
+# hello-world_vue-cli-vue3-ts
 
 ## Project setup
 ```
